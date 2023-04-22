@@ -1,0 +1,4 @@
+[submodule "catalog"]
+	path = catalog
+	url = https://github.com/adya0109/cataloguing_products.git
+	branch = master
